@@ -1,0 +1,12 @@
+lok-kala/
+├── app.py
+├── utils.py
+├── requirements.txt
+├── data/
+│   └── local_data.json
+├── assets/              # (Add meme templates later)
+├── README.md
+├── REPORT.md
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+└── LICENSE              # Use MIT
