@@ -1,0 +1,8 @@
+title: LokKala – Cultural Clipbook
+emoji: 📚
+colorFrom: green
+colorTo: indigo
+sdk: streamlit
+python_version: 3.10
+app_file: app.py
+pinned: false
