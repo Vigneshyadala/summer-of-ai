@@ -35,5 +35,5 @@ LokKala is a lightweight, open-source Streamlit web app that enables users to co
 
 1. **Clone the Repo**
    ```bash
-   git clone https://code.swecha.org/<your-repo>.git
+   git clone https://code.swecha.org/Vigneshbabu/summer-of-ai.git
    cd lokkala
